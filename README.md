@@ -10,14 +10,6 @@
     />
   </a>
 </p>
-    <p align='center'>
-        <img
-        src="https://readme-typing-svg.demolab.com/?font=Iosevka&size=16&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Dale+click+a+la+imagen+para+ver+la+documentacion+de+Postman!" alt="Typing SVG"
-        />
-        <img 
-        src="https://capsule-render.vercel.app/api?type=rect&height=10&color=390f16&fontAlignY=37&fontColor=ffff&descSize=15&descAlignY=55"
-        >
-    </p>
 
 ## 👾 Descripcion
 
